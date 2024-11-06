@@ -28,7 +28,7 @@ The scripts in this Repository are use in daily life of a DevOps engineer. Anyon
 | `Automatic Package Upadates` | `Basic` | This script is use to update package managers  |
 | `Digital Clock` | `Build In` | This script is use to show digital clock |
 | `Disk Status` | `System` | This script is use to check Disk Space |
-| `HTTP Response Time | `Networking` | This script is use to check response time  |
+| `HTTP Response Time` | `Networking` | This script is use to check response time  |
 | `Listening Ports` | `Networking` | This script is use to check the ports |
 | `Monitor CPU and Memory Usage` | `System Administration` |  This script is use to check CPU and Memory Usage |
 | `Network Connectivity` | `Networking` | This script is use to check Network Connectivity of a host |
