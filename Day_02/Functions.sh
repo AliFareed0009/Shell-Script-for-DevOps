@@ -37,3 +37,32 @@ Calling $1
 # then
 #     echo "This means the previous command failed"
 # fi
+
+# To make a Function
+
+# function Greetings {
+# 	echo " Hello Everyone ! "
+# }
+
+# # Call function
+# Greetings
+
+# # 2nd Method
+
+# Hi(){
+# 	echo "Hello World"
+# }
+
+# Hi
+
+# Functions Argument
+
+# function PassingValues {
+# 	echo "Value one is $1"
+#        	echo "Value two is $2"	
+# }
+
+# read -p "Enter First number - " value1
+# read -p "Enter Second number - " value2
+
+# PassingValues $value1 $value2 
